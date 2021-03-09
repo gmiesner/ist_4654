@@ -1,0 +1,36 @@
+body{
+  background: #FFFFFF;
+  color:#666666; 
+}
+
+header{
+  background:#002171;
+  color: #FFFFFF;
+  background-image: url('sunset.jpg');
+  background-position: right; 
+  background-repeat: no-repeat; 
+  line-height: 400%;
+  text-indent: 1em;  
+}
+nav{
+  background: #90C7E3; 
+}
+nav a{
+  margin-right: 1rem; 
+}
+
+h2{
+  color: #3399CC; 
+}
+
+dt{
+  color: #000033; 
+}
+
+.resort{
+  color: #5C7FA3; 
+}
+
+h1{
+  margin-bottom: 0;
+}
